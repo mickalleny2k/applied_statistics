@@ -1,6 +1,6 @@
 # Module : Applied Statistics
 
-** by Michael Allen **(g00425633@atu.ie)
+**by Michael Allen (g00425633@atu.ie)**
 
 This repository contains my assessment for the Applied Statistics module.
 
@@ -71,7 +71,7 @@ Alternatively you can open the repository in a Jupyter notebook.
 
 Refer to these snapshots for a step-by-step guide:
 
-**Step 1**: Change directory. Open FUND_DATA directory.
+**Step 1**: Change directory. Open applied_statistics directory.
 
 ![step_1](./img/step_1.PNG)
 
