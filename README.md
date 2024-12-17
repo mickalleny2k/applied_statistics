@@ -1,6 +1,6 @@
 # Module : Applied Statistics
 
-** by Michael Allen (g00425633@atu.ie) **
+** by Michael Allen **(g00425633@atu.ie)
 
 This repository contains my assessment for the Applied Statistics module.
 
@@ -37,7 +37,7 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 
 ## INSTRUCTIONS
 ### How to clone and run notebook
-1. Download and Install Anaconda. Here's the link:
+1) Download and Install Anaconda. Here's the link:
 https://www.anaconda.com/download/
 
 2) Download and Install Visual Studio Code. Here's the link:
@@ -71,15 +71,15 @@ Alternatively you can open the repository in a Jupyter notebook.
 
 Refer to these snapshots for a step-by-step guide:
 
-Step 1: Change directory. Open FUND_DATA directory.
+**Step 1**: Change directory. Open FUND_DATA directory.
 
 ![step_1](./img/step_1.PNG)
 
-Step 2: Run command jupyter notebook
+**Step 2**: Run command ***jupyter notebook***
 
 ![step_2](./img/step_2.PNG)
 
-Step 3: The notebook opens in a web browser. It contains tasks.ipynb and project,ipynb
+**Step 3**: The notebook opens in a web browser. It contains tasks.ipynb and project,ipynb
 
 ![step_3](./img/step_3.PNG)
 
