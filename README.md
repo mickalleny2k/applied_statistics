@@ -123,5 +123,22 @@ If you're having trouble cloning a repository, check these common errors.
 - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html#tukey-hsd
 - https://researchdatapod.com/type-ii-error-calculator/
 
+### RESEARCH for PROJECT
+- https://docs.python.org/3/library/math.html
+- https://docs.python.org/3/library/itertools.html
+- https://docs.python.org/3/library/random.html
+- https://numpy.org/doc/stable/reference/index.html#reference
+- https://matplotlib.org/stable/contents.html
+- https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html
+- https://statistics.laerd.com/statistical-guides/types-of-variable.php
+- https://en.wikipedia.org/wiki/Student%27s_t-test
+- https://statistics.laerd.com/spss-tutorials/independent-t-test-using-spss-statistics.php
+- https://statistics.laerd.com/spss-tutorials/independent-t-test-using-spss-statistics.php
+- https://statistics.laerd.com/spss-tutorials/independent-t-test-using-spss-statistics.php
+- https://statistics.laerd.com/stata-tutorials/paired-t-test-using-stata.php
+- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-4.php
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html#tukey-hsd
+- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-2.php
+
 
 
