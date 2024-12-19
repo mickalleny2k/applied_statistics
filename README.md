@@ -104,3 +104,24 @@ If you're having trouble cloning a repository, check these common errors.
   - Check that the repository really exists
   
  3. Error: Remote HEAD refers to nonexistent ref, unable to checkout
+
+## RESEARCH
+### RESEARCH for TASKS
+- https://docs.python.org/3/library/random.html#random.sample
+- Uses: https://docs.python.org/3/tutorial/datastructures.html#sets
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html
+- https://en.wikipedia.org/wiki/Normal_distribution
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html#shapiro
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html#ttest-ind
+- https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/
+- https://en.wikipedia.org/wiki/Student%27s_t-test
+- https://en.wikipedia.org/wiki/T-test#Dependent_t-test_for_paired_samples
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html#ttest-rel
+- https://www.scribbr.com/statistics/t-test/
+- https://machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/
+- https://statistics.laerd.com/statistical-guides/one-way-anova-statistical-guide-4.php
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.tukey_hsd.html#tukey-hsd
+- https://researchdatapod.com/type-ii-error-calculator/
+
+
+
