@@ -70,7 +70,8 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 
    Refer to these snapshots for a step-by-step guide to open the repository in a Jupyter notebook:
 
-   - **Step 1**: Change directory. Open applied_statistics directory.
+   - **Step 1**: Change directory. Open `applied_statistics`, directory where the clone is located.
+                 `cd applied_statistics`
 
     ![step_1](./img/step_1.PNG)
 
