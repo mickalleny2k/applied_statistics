@@ -37,40 +37,37 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 
 ## INSTRUCTIONS
 ### How to clone and run notebook
-1) Download and Install Anaconda. Here's the link:
+1. Download and Install Anaconda. Here's the link:
 [Download and Install Anaconda](https://www.anaconda.com/download/)
 
-2) Download and Install Visual Studio Code. Here's the link:
+2. Download and Install Visual Studio Code. Here's the link:
 [Download and Install Visual Studio Code](https://code.visualstudio.com/)
 
-3) Clone Repository as follows:
-- On GitHub.com, navigate to the main page of the repository.
+3. Clone Repository as follows:
+  - On GitHub.com, navigate to the main page of the repository.
   
-- Above the list of files, click Code.
+  - Above the list of files, click Code.
   ![code](https://docs.github.com/assets/cb-14601/mw-1440/images/help/repository/code-button.webp)
   
-- Copy the URL for the repository.
+  - Copy the URL for the repository.
   ![url](https://docs.github.com/assets/cb-69468/mw-1440/images/help/repository/https-url-clone-cli.webp)
   
-- Open Git Bash.
+  - Open Git Bash.
   
-- Change the current working directory to the location where you want the cloned directory.
+  - Change the current working directory to the location where you want the cloned directory.
   
-- Type `git clone`, and then paste the URL you copied earlier.
+  - Type `git clone`, and then paste the URL you copied earlier.
   
-- Press Enter to create your local clone.
-  
-The steps for cloning a repository are detailed in the link below:
-[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+  - Press Enter to create your local clone.
+    The steps for cloning a repository are detailed in the link below:
+    [Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
-5) Open Repository in Visual Studio Code
+5. Open Repository in Visual Studio Code
 [Open a repository](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository)
 
 Alternatively you can open the repository in a Jupyter notebook.
 
-### How to open the repository in a Jupyter notebook
-
-Refer to these snapshots for a step-by-step guide:
+Refer to these snapshots for a step-by-step guide to open the repository in a Jupyter notebook:
 
 **Step 1**: Change directory. Open applied_statistics directory.
 
@@ -109,7 +106,7 @@ If you're having trouble cloning a repository, check these common errors.
 ## RESEARCH
 ### RESEARCH for TASKS
 - https://docs.python.org/3/library/random.html#random.sample
-- Uses: https://docs.python.org/3/tutorial/datastructures.html#sets
+- https://docs.python.org/3/tutorial/datastructures.html#sets
 - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html
 - https://en.wikipedia.org/wiki/Normal_distribution
 - https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.shapiro.html#shapiro
