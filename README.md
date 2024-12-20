@@ -20,7 +20,7 @@ The assessment consists of three overlapping parts: a GitHub repository containi
 
 ## CONTENTS
 ### Contents of Tasks
-Complete all tasks in a notebook called ***tasks.ipynb*** in your repository.
+Complete all tasks in a notebook called 'tasks.ipynb' in your repository.
 
 For each task, you should write your code in code cells while using MarkDown cells to give explanations and insights into your code. Break up your code into smaller, manageable cells whenever possible. Each code cell should focus on a single step in your overall solution.
 
@@ -29,7 +29,7 @@ Include comments in all code cells to tell the reader what each statement does. 
 Make regular commits to your repository while completing the tasks. Your commit history should demonstrate how each solution to each task evolved. There should be several commits for each task demonstrating incremental improvements, clarifications, and revisions.
 
 ### Contents of Project 
-Complete the project in a single notebook called ***project.ipynb*** in your repository. The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits. Use plots as appropriate.
+Complete the project in a single notebook called `project.ipynb` in your repository. The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits. Use plots as appropriate.
 
 In this project, you will analyze the PlantGrowth R dataset. You will find a short description of it on Vicent Arel-Bundock's Rdatasets page. The dataset contains two main variables, a treatment group and the weight of plants within those groups.
 
@@ -38,10 +38,10 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
 ## INSTRUCTIONS
 ### How to clone and run notebook
 1) Download and Install Anaconda. Here's the link:
-https://www.anaconda.com/download/
+[Download and Install Anaconda](https://www.anaconda.com/download/)
 
 2) Download and Install Visual Studio Code. Here's the link:
-https://code.visualstudio.com/
+[Download and Install Visual Studio Code](https://code.visualstudio.com/)
 
 3) Clone Repository as follows:
 - On GitHub.com, navigate to the main page of the repository.
@@ -61,10 +61,11 @@ https://code.visualstudio.com/
 - Press Enter to create your local clone.
   
 The steps for cloning a repository are detailed in the link below:
-https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+[Cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
 5) Open Repository in Visual Studio Code
-https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository
+[Open a repository](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_open-a-git-repository)
+
 Alternatively you can open the repository in a Jupyter notebook.
 
 ### How to open the repository in a Jupyter notebook
@@ -79,7 +80,7 @@ Refer to these snapshots for a step-by-step guide:
 
 ![step_2](./img/step_2.PNG)
 
-**Step 3**: The notebook opens in a web browser. It contains ***tasks.ipynb*** and ***project.ipynb***
+**Step 3**: The notebook opens in a web browser. It contains `tasks.ipynb` and `project.ipynb`
 
 ![step_3](./img/step_3.PNG)
 
@@ -87,7 +88,7 @@ Refer to these snapshots for a step-by-step guide:
 ## ISSUES
 ### Troubleshooting cloning errors
 
-https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors
+[Troubleshooting cloning errors](https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors)
 
 If you're having trouble cloning a repository, check these common errors.
 1. HTTPS cloning errors
