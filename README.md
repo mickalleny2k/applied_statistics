@@ -20,7 +20,7 @@ The assessment consists of three overlapping parts: a GitHub repository containi
 
 ## CONTENTS
 ### Contents of Tasks
-Complete all tasks in a notebook called 'tasks.ipynb' in your repository.
+Complete all tasks in a notebook called `tasks.ipynb` in your repository.
 
 For each task, you should write your code in code cells while using MarkDown cells to give explanations and insights into your code. Break up your code into smaller, manageable cells whenever possible. Each code cell should focus on a single step in your overall solution.
 
@@ -71,6 +71,7 @@ Your task is to perform t-tests and ANOVA on this dataset while describing the d
    Refer to these snapshots for a step-by-step guide to open the repository in a Jupyter notebook:
 
    - **Step 1**: Change directory. Open `applied_statistics`, directory where the clone is located.
+     
                  `cd applied_statistics`
 
     ![step_1](./img/step_1.PNG)
