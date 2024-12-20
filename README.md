@@ -20,7 +20,7 @@ The assessment consists of three overlapping parts: a GitHub repository containi
 
 ## CONTENTS
 ### Contents of Tasks
-Complete all tasks in a notebook called tasks.ipynb in your repository.
+Complete all tasks in a notebook called ***tasks.ipynb*** in your repository.
 
 For each task, you should write your code in code cells while using MarkDown cells to give explanations and insights into your code. Break up your code into smaller, manageable cells whenever possible. Each code cell should focus on a single step in your overall solution.
 
@@ -29,7 +29,7 @@ Include comments in all code cells to tell the reader what each statement does. 
 Make regular commits to your repository while completing the tasks. Your commit history should demonstrate how each solution to each task evolved. There should be several commits for each task demonstrating incremental improvements, clarifications, and revisions.
 
 ### Contents of Project 
-Complete the project in a single notebook called project.ipynb in your repository. The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits. Use plots as appropriate.
+Complete the project in a single notebook called ***project.ipynb*** in your repository. The same style should be used as detailed above: explanations in MarkDown and code comments, clean code, and regular commits. Use plots as appropriate.
 
 In this project, you will analyze the PlantGrowth R dataset. You will find a short description of it on Vicent Arel-Bundock's Rdatasets page. The dataset contains two main variables, a treatment group and the weight of plants within those groups.
 
@@ -56,7 +56,7 @@ https://code.visualstudio.com/
   
 - Change the current working directory to the location where you want the cloned directory.
   
-- Type git clone, and then paste the URL you copied earlier.
+- Type `git clone`, and then paste the URL you copied earlier.
   
 - Press Enter to create your local clone.
   
@@ -75,11 +75,11 @@ Refer to these snapshots for a step-by-step guide:
 
 ![step_1](./img/step_1.PNG)
 
-**Step 2**: Run command ***jupyter notebook***
+**Step 2**: Run command `jupyter notebook`
 
 ![step_2](./img/step_2.PNG)
 
-**Step 3**: The notebook opens in a web browser. It contains tasks.ipynb and project,ipynb
+**Step 3**: The notebook opens in a web browser. It contains ***tasks.ipynb*** and ***project.ipynb***
 
 ![step_3](./img/step_3.PNG)
 
